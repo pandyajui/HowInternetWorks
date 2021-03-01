@@ -1,7 +1,12 @@
-.Project{
+.Project {
     text-align: center;
 }
 
-.Team{
+.Team {
     text-align: center;
+}
+
+.projectsummary {
+    margin-right: 40px;
+    margin-left: 40px;
 }
