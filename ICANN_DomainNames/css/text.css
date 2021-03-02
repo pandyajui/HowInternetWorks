@@ -1,11 +1,18 @@
-.ICANNTitle{
+.ICANNTitle {
     text-align: center;
 }
-.DomainNamesTitle{
-   text-align: center;
+
+.DomainNamesTitle {
+    text-align: center;
 }
 
-.icannsummary{
+.icannsummary {
     margin-right: 40px;
     margin-left: 40px;
+}
+
+.domainsummary {
+    margin-right: 40px;
+    margin-left: 40px;
+
 }
