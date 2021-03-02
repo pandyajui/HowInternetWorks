@@ -1,4 +1,8 @@
 .DNSTitle {
+    text-align: center;
+}
+
+.summary{
     margin-right: 40px;
     margin-left: 40px;
 }
